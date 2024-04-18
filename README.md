@@ -1,14 +1,13 @@
 
 # BFM Tool: Real-Time WiFi Beamforming Feedback Matrix Capture
 
-BFM Tool is an open-source software for retrieving Wi-Fi beamforming feedback packets and reconstructing the beamforming feedback matrix (BFM) in real time. This tool is developed and built on a 4x1 MIMO WiFi configuration (e.g., AP:Netgear Nighthawk X4S AC2600 router
-; STA: Tenda U10). We plan to support the BFM Tool with more MIMO configurations in the future.
+BFM Tool is an open-source software for retrieving Wi-Fi beamforming feedback packets and reconstructing the beamforming feedback matrix (BFM) in real time. This tool is developed and built on a 4x1 MIMO WiFi configuration (e.g., AP: Netgear Nighthawk X4S AC2600 router; STA: Tenda U10). 
 
 # Advantages Over CSI
 Different from Channel State Information (CSI) which requires modifications to hardware drivers, BFM Tool captures beamforming feedback matrix without any hardware modification. This new information enables user to rapidly deploy on devices that support MU-MIMO. To build wireless sensing applications, the user can exploit proposed BFM ratios method, offering a new technique to significantly improve the sensing performance.
 
 # Research Background
-This tool originates from the Wireless Sensing Group led by Daqing Zhang at Peking University. Our team focus on developing the fundamentals of WiFi wireless sensing and has developed a range of theories and techniques based on proposed Fresnel zone-based sensing model.
+This tool originates from the Wireless Sensing Group led by Prof. Daqing Zhang from Peking University . Our team focus on developing the fundamentals of WiFi wireless sensing and has developed a range of theories and techniques based on proposed Fresnel zone-based sensing model.
 
 ## Citation
 If you find BFM Tool useful, please consider citing our associated paper:
