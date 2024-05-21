@@ -3,7 +3,7 @@
 
 BFM Tool is an open-source software for retrieving Wi-Fi beamforming feedback packets and reconstructing the beamforming feedback matrix (BFM) in real time. This tool is developed and built on a 4x1 MIMO WiFi configuration (e.g., AP: Netgear Nighthawk X4S AC2600 router; STA: Tenda U10). 
 
-[![BFM  tool](https://github.com/Enze-Yi/BFM-tool/blob/main/Thumbnail.jpg)](https://youtu.be/jUs5iD74Vu4 "BFM  tool")
+[![BFM  tool](https://github.com/Enze-Yi/BFM-tool/blob/main/Thumbnail.jpg)](https://youtu.be/XJBWup9MeKc "BFM  tool")
 
 # Advantages Over CSI
 Different from Channel State Information (CSI) which requires modifications to hardware drivers, BFM Tool captures beamforming feedback matrix without any hardware modification. This new information enables user to rapidly deploy on devices that support MU-MIMO. To build wireless sensing applications, the user can exploit proposed BFM ratios method, offering a new technique to significantly improve the sensing performance.
